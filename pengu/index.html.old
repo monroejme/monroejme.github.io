@@ -1,0 +1,34 @@
+<html>
+
+	<head>
+		<title> SAVE THE PENGUS </title>
+		<link rel="stylesheet" href="pengu.css">
+		
+	</head>
+	
+	<body>
+		<header>
+			<div class="ovalimage">
+				<img src ="images/bigsplash.jpg" width="80%" alt="Main Splash Images">
+			</div>
+		</header>
+		
+		<nav>
+			<a href="index.html">Home</a>
+			<a href="index.html">Donate</a>
+			<a href="index.html">Contact</a>
+			<a href="index.html">Resources</a>
+		</nav>
+		
+		<main>
+			<p>
+				Thanks for visiting the save this pengus page... they must be saved for sure... so go on over to the <a href="donate.html">donations</a> page and give us some money!! there are some good link on the <a href="resources.html">resources</a> page as well as <a href="contact.html">contact info</a>!
+			</p>
+		</main>
+		
+		<footer>
+			All rights reservered Code Fellows 101
+		</footer>
+	</body>
+	
+</html>
